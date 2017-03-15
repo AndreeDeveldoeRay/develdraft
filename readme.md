@@ -4,14 +4,18 @@
 @Email:  me@andreeray.se
 @Filename: readme.md
 @Last modified by:   develdoe
-@Last modified time: 2017-03-13T21:17:25+01:00
+@Last modified time: 2017-03-15T21:09:25+01:00
 -->
 
 
 
 # DevelStrap
 
-Bootstrapping react app development, now with Redu
+
+This here is a simple implementation of Draft.js,  a framework for building rich text editors in React, powered by an immutable model and abstracting over cross-browser differences.
+
+[Draft.js](https://draftjs.org/docs/overview.html#content)
+
 
 ## Bundling
 
